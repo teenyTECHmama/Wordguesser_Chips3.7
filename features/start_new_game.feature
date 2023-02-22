@@ -11,3 +11,4 @@ Scenario: I start a new game
   Then I should see "Guess a letter"
   And I press "New Game"
   Then I should see "Guess a letter"
+  
